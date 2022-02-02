@@ -4,7 +4,7 @@ revision: '00001'
 annotations:
   dc24cb78cbe747fdbf15e81d1e8db27f:
     span:
-      start: 4614
-      end: 5603
+      start: 4591
+      end: 5573
 local_ids:
   dc24cb78cbe747fdbf15e81d1e8db27f: 200000
